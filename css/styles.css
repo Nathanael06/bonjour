@@ -1,0 +1,27 @@
+body {
+    background-color: gold;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 50px;
+    color: rgb(255, 0, 0)
+    font-family 'Balsamiq Sans', cursive;
+}
+
+header {
+    margin: 25px;
+    background: red;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flexbox;
+    justify-content: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+p {
+    color: olivedrab
+    
+
+}
